@@ -2,8 +2,6 @@
 
  Este repositorio alberga el proyecto final del Bootcamp de Ciencia de Datos de Código Facilito.
  
- El proyecto se realiza a través de los tres notebooks.
+ El proyecto se realiza a través de tres notebooks. En el [primer notebook](https://github.com/memo-math/Proyecto-Final-CienciadeDatos-CF/blob/main/XG_carga_datos.ipynb) se realiza la carga de datos y se selecciona la información relevante para el modelo. En el [segundo](https://github.com/memo-math/Proyecto-Final-CienciadeDatos-CF/blob/main/XG_limpieza_analisis_datos.ipynb) se crean nuevos features y se hace el análisis de datos. El [último notebook](https://github.com/memo-math/Proyecto-Final-CienciadeDatos-CF/blob/main/XG_final_modelo.ipynb) contiene la implementación del modelo.
  
- El archivo *shots_carga.csv* es el resultado final del notebook de *XG_carga_datos* y se carga principio del notebook *XG_limpieza_analisis_datos*.
- 
- El archivo *shots_limpieza.csv* es el que se crea al finalizar el notebook *XG_limpieza_analisis_datos* y se carga al principio del notebook *XG_final_modelo*.
+ El archivo *shots_carga.csv* se carga en el notebook *XG_limpieza_analisis_datos* mientras que, *shots_limpieza.csv* se carga en el notebook *XG_final_modelo*.
